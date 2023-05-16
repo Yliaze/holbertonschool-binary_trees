@@ -22,7 +22,7 @@ int binary_tree_is_full(const binary_tree_t *tree)
 	if (left_full && right_full)
 	{
 		return (1);
-	} 
+	}
 	else
 	{
 		return (0);
